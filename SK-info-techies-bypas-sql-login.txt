@@ -20,3 +20,5 @@ password: ' or 1=1 limit 1 -- -+
 ### Demo Site :
 https://cgtes.com/panel/
 https://www.lovinlifehealthcareservices.com/panel/
+
+#Galaxy Xploiter Team
