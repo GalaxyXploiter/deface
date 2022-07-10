@@ -1,6 +1,6 @@
 *********************************************************
 #Exploit Title: JH Web Solutions -  Bypas Sql Login Vulnerability
-#Date: 2022-07-11
+#Date: 11-07-2022
 #Exploit Author: Lutfie404
 #Google Dork: intext:"Developed By : JH Web Solutions"
 #The Login URL is: site.com/admin
