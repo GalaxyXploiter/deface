@@ -1,6 +1,6 @@
 *********************************************************
 #Exploit Title: kitecms -  Bypas Sql Login Vulnerability
-#Date: 2022-07-11
+#Date: 11-07-2022
 #Exploit Author: Lutfie404
 #Google Dork: intext:"Designed & Developed By Kite Infotech"
 #The Login URL is: site.com/kitecms | site.com/admin 
