@@ -20,3 +20,6 @@ password: ' or 1=1 limit 1 -- -+
 ### Demo Site :
 https://www.imperialsuitesinn.com/admin/
 https://www.rabsa.net/admin/
+
+
+#Galaxy Xploiter Team
